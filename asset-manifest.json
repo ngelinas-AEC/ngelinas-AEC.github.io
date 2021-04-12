@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/css/main.9aa2c4b1.chunk.css",
+    "main.js": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/js/main.d966a15a.chunk.js",
+    "main.js.map": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/js/main.d966a15a.chunk.js.map",
+    "runtime-main.js": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/js/runtime-main.8076ba60.js",
+    "runtime-main.js.map": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/js/runtime-main.8076ba60.js.map",
+    "static/css/2.6b5d40a7.chunk.css": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/css/2.6b5d40a7.chunk.css",
+    "static/js/2.bb96787a.chunk.js": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/js/2.bb96787a.chunk.js",
+    "static/js/2.bb96787a.chunk.js.map": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/js/2.bb96787a.chunk.js.map",
+    "index.html": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/index.html",
+    "precache-manifest.580e6067e5f38cc7ddd77585b534174d.js": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/precache-manifest.580e6067e5f38cc7ddd77585b534174d.js",
+    "service-worker.js": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/service-worker.js",
+    "static/css/2.6b5d40a7.chunk.css.map": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/css/2.6b5d40a7.chunk.css.map",
+    "static/css/main.9aa2c4b1.chunk.css.map": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/css/main.9aa2c4b1.chunk.css.map",
+    "static/js/2.bb96787a.chunk.js.LICENSE.txt": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/js/2.bb96787a.chunk.js.LICENSE.txt",
+    "static/media/login.sass": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/media/screen1_img1.20415359.png",
+    "static/media/screen1_img6.png": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/media/screen1_img6.d9bbe29d.png",
+    "static/media/screen1_img7.png": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/media/screen1_img7.83234117.png",
+    "static/media/screen1_img8.png": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/media/screen1_img8.6b7d7b3b.png",
+    "static/media/screen1_img9.png": "/ngelinas-AEC/Projet-synthese---Portail-de-recherche-de-stage/static/media/screen1_img9.f4e29dfb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8076ba60.js",
+    "static/css/2.6b5d40a7.chunk.css",
+    "static/js/2.bb96787a.chunk.js",
+    "static/css/main.9aa2c4b1.chunk.css",
+    "static/js/main.d966a15a.chunk.js"
+  ]
+}
